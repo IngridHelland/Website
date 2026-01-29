@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Artwork — Details</title>
+  <meta name="description" content="Artwork details and images." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Injected navbar -->
+  <div id="navbar"></div>
+
+  <main id="main" class="container">
+    <div id="artwork-root" class="artwork-root" aria-live="polite">
+      <!-- Details.js will inject content here -->
+      <div class="loading">Loading artwork…</div>
+    </div>
+  </main>
+
+  <!-- Injected footer -->
+  <div id="footer"></div>
+
+  <script src="script.js"></script>
+  <script src="details.js"></script>
+</body>
+</html>
