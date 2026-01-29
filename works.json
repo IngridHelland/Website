@@ -1,0 +1,113 @@
+{
+  "artworks": [
+    {
+      "id": "artwork-01",
+      "title": "Mann og bjørn",
+      "year": "2024",
+      "medium": "Woodcut",
+      "dimensions": "45 x 27cm",
+      "hero": "pictures/bjørn.jpg",
+      "gallery": [
+
+      ],
+      "description": "The woodcut addresses the animalistic within the human and the beast that fights against the man. The work raises the question of who will win the struggle and can be linked to a contemporary and widely debated question: Would you choose the man or the bear?"
+    },
+    {
+      "id": "artwork-02",
+      "title": "Om hundre år er allting glemt",
+      "year": "2025",
+      "medium": "Pencil on aquarell paper",
+      "dimensions": "57 x 57cm",
+      "hero": "pictures/hest.jpg",
+      "gallery": [
+        "pictures/hest_1.jpg", "pictures/hest_2.jpg"
+      ],
+      "description": "The drawing explores the tension between the mechanical and the organic within a controlled society from which there is no escape. The drawing uses the carousel as a metaphor for a system one inhabits without fully grasping its scope. The horse exists between life and machinery, its gaze marked by desperation. The work points to human transience and to how what is man-made will outlast us. It invites reflection on what we have forgotten, what we have lost, and whether there is still a possibility of breaking free from the mechanical carousel in which we are trapped. Executed with pencil on paper."
+    },
+    {
+      "id": "artwork-03",
+      "title": "Høstmand",
+      "year": "2024",
+      "medium": "Woodcut",
+      "dimensions": "21 x 29,7cm",
+      "hero": "pictures/hostmannen.jpg",
+      "gallery": [],
+      "description": ""
+    },
+    {
+      "id": "artwork-04",
+      "title": "Maneritt",
+      "year": "2024",
+      "medium": "Drawing on aquarell paper",
+      "dimensions": "70 x 100cm",
+      "hero": "pictures/maneritt.jpg",
+      "gallery": [
+        
+      ],
+      "description": "The drawing seeks to explore the dynamic between the beautiful and the gruesome. She is drawn to examining what might be described as “objectively beautiful,” while simultaneously concealing something that is likely far from beautiful, and to stretching the boundaries of what is defined as frightening. A group of skeletons chase a woman; like a storm, they attempt to catch up with her, but what is it she is fleeing from? “Maneritt” may verge on kitsch, yet the artist embraces approaching this boundary, and perhaps even crossing it"
+    },
+    {
+      "id": "artwork-05",
+      "title": "Tørke",
+      "year": "2025",
+      "medium": "Drawing on Magnani presspaper",
+      "dimensions": "57 x 39cm",
+      "hero": "pictures/solsikke.jpg",
+      "gallery": [
+    
+      ],
+      "description": "“Tørke” explores vulnerability and innocence in encounter with the botanical, hinting at a future marked by uncertainty. It reflects on childhood and a longing for a simpler, carefree time. Executed in pencil on paper, the texture creates shadows that lend the work a somber and anxious atmosphere."
+    },
+    {
+      "id": "artwork-06",
+      "title": "Vekst",
+      "year": "2025",
+      "medium": "Pencil on paper",
+      "dimensions": "78 x 57cm",
+      "hero": "pictures/vekst.jpg",
+      "gallery": [],
+      "description": "This drawing, like the work Tørke, explores vulnerability and innocence in encounter with the botanical. The work points to different ways and stages of growing up, where some processes take longer than others. The atmosphere suggests something uncertain and unsettling in the meeting between the innocent and the seemingly calm. The drawing is executed on Magnani printmaking paper using Technalo RGB pencils. "
+    },
+   {
+      "id": "artwork-07",
+      "title": "Voluspa",
+      "year": "2025",
+      "medium": "Ink on Canson paper",
+      "dimensions": "29.7 x 42cm",
+      "hero": "Pictures/Tittelsekvens.jpg",
+      "gallery": [],
+      "description": ""
+    },
+    {
+      "id": "artwork-08",
+      "title": "Have a Seat",
+      "year": "2024",
+      "medium": "Linoleum print",
+      "dimensions": "21 x 29,7cm",
+      "hero": "pictures/Linoleumstrykk.jpeg",
+      "gallery": [],
+      "description": "“Have A Seat” may appear as a friendly invitation, but upon closer inspection the viewer finds themselves within a dense, poetic, and unsettling landscape. The work explores human closeness within an environment that can feel unfamiliar and threatening. The polite invitation is contrasted by an atmosphere marked by vulnerability, absence, and fear of being deceived or left sitting alone. The viewer is left to decide whether the invitation is safe or menacing. The work is a linoleum print, produced in nine different combinations of paper and color, some so intense that they become uncomfortable to look at for extended periods of time."
+    },
+    {
+      "id": "artwork-09",
+      "title": "Det har vært en lang dag",
+      "year": "2025",
+      "medium": "Ink on Khadi paper",
+      "dimensions": "15 x 15cm",
+      "hero": "Pictures/Bok.jpg",
+      "gallery": [],
+      "description": "The inspiration for this book is drawn from early manuscripts, as well as Albrecht Dürer’s woodcuts and hatching techniques. The concept is based on a single sentence and explores how one letter can influence and alter the reading experience of the entire book. The choice naturally fell on the letter D, as it is frequently used at the beginning of sentences in norwegian. To clarify how the sentence may be read and interpreted, I chose the phrase “Det har vært en lang dag” (“It has been a long day”), a sentence open to countless interpretations. The book is executed using a glass dip pen and ink on Khadi paper. The interaction between the paper’s rough surface and the pen’s unpredictable strokes gives the book a cohesive and tactile character. The book may also be experienced as a series of individual drawings."
+    },
+    {
+      "id": "artwork-10",
+      "title": "Burial Ground",
+      "year": "2025",
+      "medium": "Ink on Bristol paper",
+      "dimensions": "21 x 29.7cm",
+      "hero": "Pictures/Horrifier.jpg",
+      "gallery": [],
+      "description": "Single cover for the norwegian old school death metal band called Horrifier"
+    }
+    
+  ]
+}
